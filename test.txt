@@ -1,0 +1,223 @@
+PING darik.bg (91.196.126.37) 56(84) bytes of data.
+64 bytes from darik.bg (91.196.126.37): icmp_seq=1 ttl=128 time=74.3 ms
+64 bytes from darik.bg (91.196.126.37): icmp_seq=2 ttl=128 time=34.9 ms
+64 bytes from darik.bg (91.196.126.37): icmp_seq=3 ttl=128 time=265 ms
+64 bytes from darik.bg (91.196.126.37): icmp_seq=4 ttl=128 time=60.4 ms
+
+--- darik.bg ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3004ms
+rtt min/avg/max/mdev = 34.896/108.564/264.626/91.203 ms
+PING dnevnik.bg (104.22.13.51) 56(84) bytes of data.
+64 bytes from dnevnik.bg (104.22.13.51): icmp_seq=1 ttl=128 time=28.8 ms
+64 bytes from dnevnik.bg (104.22.13.51): icmp_seq=2 ttl=128 time=39.3 ms
+64 bytes from dnevnik.bg (104.22.13.51): icmp_seq=3 ttl=128 time=32.1 ms
+
+--- dnevnik.bg ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 28.779/33.390/39.299/4.391 ms
+PING darik.bg (91.196.126.37) 56(84) bytes of data.
+64 bytes from darik.bg (91.196.126.37): icmp_seq=1 ttl=128 time=29.3 ms
+64 bytes from darik.bg (91.196.126.37): icmp_seq=2 ttl=128 time=34.4 ms
+64 bytes from darik.bg (91.196.126.37): icmp_seq=3 ttl=128 time=35.6 ms
+64 bytes from darik.bg (91.196.126.37): icmp_seq=4 ttl=128 time=36.5 ms
+
+--- darik.bg ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3004ms
+rtt min/avg/max/mdev = 29.318/33.937/36.503/2.773 ms
+PING darik.bg (91.196.126.37) 56(84) bytes of data.
+64 bytes from darik.bg (91.196.126.37): icmp_seq=1 ttl=128 time=146 ms
+64 bytes from darik.bg (91.196.126.37): icmp_seq=2 ttl=128 time=197 ms
+64 bytes from darik.bg (91.196.126.37): icmp_seq=3 ttl=128 time=760 ms
+64 bytes from darik.bg (91.196.126.37): icmp_seq=4 ttl=128 time=650 ms
+
+--- darik.bg ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3002ms
+rtt min/avg/max/mdev = 146.115/438.497/760.362/270.314 ms
+PING darik.bg (91.196.126.37) 56(84) bytes of data.
+64 bytes from darik.bg (91.196.126.37): icmp_seq=1 ttl=128 time=39.3 ms
+64 bytes from darik.bg (91.196.126.37): icmp_seq=2 ttl=128 time=28.1 ms
+64 bytes from darik.bg (91.196.126.37): icmp_seq=3 ttl=128 time=29.9 ms
+64 bytes from darik.bg (91.196.126.37): icmp_seq=4 ttl=128 time=25.7 ms
+
+--- darik.bg ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3002ms
+rtt min/avg/max/mdev = 25.722/30.761/39.308/5.149 ms
+PING darik.bg (91.196.126.37) 56(84) bytes of data.
+64 bytes from darik.bg (91.196.126.37): icmp_seq=1 ttl=128 time=29.3 ms
+64 bytes from darik.bg (91.196.126.37): icmp_seq=2 ttl=128 time=28.6 ms
+64 bytes from darik.bg (91.196.126.37): icmp_seq=3 ttl=128 time=28.5 ms
+64 bytes from darik.bg (91.196.126.37): icmp_seq=4 ttl=128 time=29.1 ms
+
+--- darik.bg ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3006ms
+rtt min/avg/max/mdev = 28.466/28.874/29.283/0.341 ms
+13:02:2022
+PING data.bg (79.124.52.162) 56(84) bytes of data.
+64 bytes from data.bg (79.124.52.162): icmp_seq=1 ttl=128 time=32.6 ms
+64 bytes from data.bg (79.124.52.162): icmp_seq=2 ttl=128 time=28.8 ms
+64 bytes from data.bg (79.124.52.162): icmp_seq=3 ttl=128 time=423 ms
+64 bytes from data.bg (79.124.52.162): icmp_seq=4 ttl=128 time=29.2 ms
+
+--- data.bg ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3004ms
+rtt min/avg/max/mdev = 28.770/128.422/423.094/170.135 ms
+13:02:2022
+ 
+PING darik.bg (91.196.126.37) 56(84) bytes of data.
+64 bytes from darik.bg (91.196.126.37): icmp_seq=1 ttl=128 time=46.8 ms
+64 bytes from darik.bg (91.196.126.37): icmp_seq=2 ttl=128 time=74.2 ms
+64 bytes from darik.bg (91.196.126.37): icmp_seq=3 ttl=128 time=29.4 ms
+64 bytes from darik.bg (91.196.126.37): icmp_seq=4 ttl=128 time=28.3 ms
+
+--- darik.bg ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3001ms
+rtt min/avg/max/mdev = 28.265/44.667/74.198/18.560 ms
+
+ 
+PING darik.bg (91.196.126.37) 56(84) bytes of data.
+64 bytes from dsrv125.superdnsserver.net (91.196.126.37): icmp_seq=1 ttl=128 time=32.0 ms
+64 bytes from dsrv125.superdnsserver.net (91.196.126.37): icmp_seq=2 ttl=128 time=36.1 ms
+64 bytes from dsrv125.superdnsserver.net (91.196.126.37): icmp_seq=3 ttl=128 time=33.1 ms
+64 bytes from dsrv125.superdnsserver.net (91.196.126.37): icmp_seq=4 ttl=128 time=56.9 ms
+
+--- darik.bg ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3143ms
+rtt min/avg/max/mdev = 31.961/39.528/56.913/10.150 ms
+
+ 
+PING data.bg (79.124.52.162) 56(84) bytes of data.
+64 bytes from data.bg (79.124.52.162): icmp_seq=1 ttl=128 time=195 ms
+64 bytes from data.bg (79.124.52.162): icmp_seq=2 ttl=128 time=109 ms
+64 bytes from data.bg (79.124.52.162): icmp_seq=4 ttl=128 time=340 ms
+
+--- data.bg ping statistics ---
+4 packets transmitted, 3 received, 25% packet loss, time 3594ms
+rtt min/avg/max/mdev = 108.619/214.586/340.489/95.704 ms
+13:02:202217:05:47
+ 
+PING data.bg (79.124.52.162) 56(84) bytes of data.
+64 bytes from 79.124.52.162 (79.124.52.162): icmp_seq=1 ttl=128 time=317 ms
+64 bytes from 79.124.52.162 (79.124.52.162): icmp_seq=2 ttl=128 time=137 ms
+64 bytes from 79.124.52.162 (79.124.52.162): icmp_seq=3 ttl=128 time=529 ms
+64 bytes from 79.124.52.162 (79.124.52.162): icmp_seq=4 ttl=128 time=44.4 ms
+
+--- data.bg ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 8339ms
+rtt min/avg/max/mdev = 44.372/256.834/529.344/185.271 ms
+13:02:2022 17:08:14
+ 
+PING google.bg (172.217.169.131) 56(84) bytes of data.
+64 bytes from google.bg (172.217.169.131): icmp_seq=1 ttl=128 time=28.7 ms
+64 bytes from google.bg (172.217.169.131): icmp_seq=2 ttl=128 time=29.9 ms
+64 bytes from google.bg (172.217.169.131): icmp_seq=3 ttl=128 time=27.7 ms
+64 bytes from google.bg (172.217.169.131): icmp_seq=4 ttl=128 time=40.0 ms
+
+--- google.bg ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3004ms
+rtt min/avg/max/mdev = 27.736/31.567/40.010/4.931 ms
+The time is 13:02:2022 17:09:42
+ 
+PING facebook.com (157.240.234.35) 56(84) bytes of data.
+64 bytes from facebook.com (157.240.234.35): icmp_seq=1 ttl=128 time=32.6 ms
+64 bytes from facebook.com (157.240.234.35): icmp_seq=2 ttl=128 time=27.9 ms
+64 bytes from facebook.com (157.240.234.35): icmp_seq=3 ttl=128 time=28.3 ms
+
+--- facebook.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 27.926/29.614/32.625/2.134 ms
+The time is 13.02.2022 13.02.2022
+ 
+PING news.bg (79.98.111.110) 56(84) bytes of data.
+64 bytes from news.bg (79.98.111.110): icmp_seq=1 ttl=128 time=39.8 ms
+64 bytes from news.bg (79.98.111.110): icmp_seq=2 ttl=128 time=31.9 ms
+64 bytes from news.bg (79.98.111.110): icmp_seq=3 ttl=128 time=30.1 ms
+
+--- news.bg ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 30.132/33.952/39.787/4.191 ms
+ 
+The time is 13.02.2022 13.02.2022
+ 
+PING google.bg (172.217.169.131) 56(84) bytes of data.
+64 bytes from google.bg (172.217.169.131): icmp_seq=1 ttl=128 time=39.8 ms
+64 bytes from google.bg (172.217.169.131): icmp_seq=2 ttl=128 time=31.1 ms
+64 bytes from google.bg (172.217.169.131): icmp_seq=3 ttl=128 time=39.7 ms
+64 bytes from google.bg (172.217.169.131): icmp_seq=4 ttl=128 time=30.7 ms
+
+--- google.bg ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3005ms
+rtt min/avg/max/mdev = 30.706/35.320/39.798/4.431 ms
+################################################
+The time taken for data.bg 13.02.2022 13.02.2022
+ 
+PING data.bg (79.124.52.162) 56(84) bytes of data.
+64 bytes from data.bg (79.124.52.162): icmp_seq=1 ttl=128 time=30.9 ms
+64 bytes from data.bg (79.124.52.162): icmp_seq=2 ttl=128 time=31.7 ms
+64 bytes from data.bg (79.124.52.162): icmp_seq=3 ttl=128 time=155 ms
+
+--- data.bg ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2004ms
+rtt min/avg/max/mdev = 30.863/72.626/155.300/58.460 ms
+ 
+####################################################################
+The time taken for news.bg 13.02.2022 13.02.2022
+ 
+PING news.bg (79.98.111.110) 56(84) bytes of data.
+64 bytes from news.bg (79.98.111.110): icmp_seq=1 ttl=128 time=524 ms
+64 bytes from news.bg (79.98.111.110): icmp_seq=2 ttl=128 time=459 ms
+64 bytes from news.bg (79.98.111.110): icmp_seq=3 ttl=128 time=111 ms
+
+--- news.bg ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2076ms
+rtt min/avg/max/mdev = 110.565/364.703/524.112/181.632 ms
+ 
+e\[1;33m ############################################################################ [0m
+ 
+The time taken for dir.bg 13.02.2022 13.02.2022
+ 
+PING dir.bg (172.67.71.201) 56(84) bytes of data.
+64 bytes from dir.bg (172.67.71.201): icmp_seq=1 ttl=128 time=65.4 ms
+64 bytes from dir.bg (172.67.71.201): icmp_seq=2 ttl=128 time=43.8 ms
+64 bytes from dir.bg (172.67.71.201): icmp_seq=3 ttl=128 time=110 ms
+
+--- dir.bg ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2007ms
+rtt min/avg/max/mdev = 43.757/73.218/110.489/27.797 ms
+ 
+[1;33m ############################################################################ [0m
+ 
+The time taken for facebook.com 13.02.2022 13.02.2022
+ 
+PING facebook.com (157.240.234.35) 56(84) bytes of data.
+64 bytes from facebook.com (157.240.234.35): icmp_seq=1 ttl=128 time=174 ms
+64 bytes from facebook.com (157.240.234.35): icmp_seq=2 ttl=128 time=45.2 ms
+64 bytes from facebook.com (157.240.234.35): icmp_seq=3 ttl=128 time=254 ms
+
+--- facebook.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 45.150/157.516/253.755/85.922 ms
+ 
+[1;33m ############################################################################ [0m
+ 
+The time taken for edna.bg 13.02.2022 13.02.2022
+ 
+PING edna.bg (87.120.176.26) 56(84) bytes of data.
+64 bytes from edna.bg (87.120.176.26): icmp_seq=1 ttl=128 time=28.5 ms
+64 bytes from edna.bg (87.120.176.26): icmp_seq=2 ttl=128 time=41.5 ms
+
+--- edna.bg ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 28.500/34.975/41.451/6.475 ms
+ 
+############################################################################
+ 
+The time taken to ping darik.bg 13.02.2022 13.02.2022
+ 
+PING darik.bg (91.196.126.37) 56(84) bytes of data.
+64 bytes from darik.bg (91.196.126.37): icmp_seq=1 ttl=128 time=41.8 ms
+64 bytes from darik.bg (91.196.126.37): icmp_seq=2 ttl=128 time=114 ms
+64 bytes from darik.bg (91.196.126.37): icmp_seq=3 ttl=128 time=641 ms
+
+--- darik.bg ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2004ms
+rtt min/avg/max/mdev = 41.833/265.467/640.799/267.019 ms
